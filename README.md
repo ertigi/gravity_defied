@@ -1,2 +1,2 @@
 # gravity_defied
-![Gameplay Demo](demo.gif)
+![Gameplay Demo](Docs/demo.gif)
